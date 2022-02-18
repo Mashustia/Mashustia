@@ -19,6 +19,7 @@
   <img alt="SmartAdmin" src="https://img.shields.io/badge/-SmartAdmin-B7178C?style=flat-square&logo=smartadmin&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-E10098?style=flat-square&logo=sentry&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-CC6699?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Formic" src="https://img.shields.io/badge/-Formic-F05032?style=flat-square&logo=formic&logoColor=white" />
 </p>  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashustia&show_icons=true)  
