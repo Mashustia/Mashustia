@@ -3,7 +3,7 @@
   Hello! Nice to see you.
 </h1>
 
-<p>Welcome to my page! </br> I'm Mariia, Frontend developer from <b>Saint Petersburg, Russia</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299700.png" width="15"/> currently living in <b>Nur-Sultan, Kazakhstan</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299874.png" width="15"/></p>
+<p>Welcome to my page! </br> I'm Mariia, Frontend developer from <b>Saint Petersburg, Russia</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299700.png" width="15"/> currently living in <b>Astana, Kazakhstan</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299874.png" width="15"/></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
