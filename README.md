@@ -3,12 +3,12 @@
   Hello! Nice to see you.
 </h1>
 
-<p>Welcome to my page! </br> I'm Mariia, Frontend developer from <b>Saint Petersburg, Russia</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299700.png" width="15"/> currently living in <b>Astana, Kazakhstan</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299874.png" width="15"/></p>
+<p>Welcome to my page! </br> I'm Mariia, Frontend developer from <b>Saint Petersburg, Russia</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299700.png" width="15"/>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-46a2f1?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-2088FF?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="redux toolkit" src="https://img.shields.io/badge/-Redux-2088FF?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-1a73e8?style=flat-square&logo=sass&logoColor=white" 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-1a73e8?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS Modules" src="https://img.shields.io/badge/-CSSModules-007ACC?style=flat-square&logo=cssmodules&logoColor=white" />
